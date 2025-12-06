@@ -6,3 +6,6 @@ url: https://pavelsg.github.io/mailwebhook-docs
 
 aux_links:
   Template Repository: https://github.com/pavelsg/just-the-docs-template
+
+plugins:
+  - jekyll-default-layout

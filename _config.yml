@@ -1,6 +1,7 @@
 title: MailWebhook Documentation
 description: Documentation for MailWebhook
-theme: just-the-docs
+#theme: just-the-docs
+remote_theme: pavelsg/just-the-docs
 
 url: https://pavelsg.github.io/mailwebhook-docs
 
